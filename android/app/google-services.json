@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "412858480002",
+    "project_id": "vehya-39eed",
+    "storage_bucket": "vehya-39eed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412858480002:android:a0629fc716e2ac97a78b9b",
+        "android_client_info": {
+          "package_name": "com.example.vehya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1LeETZfdNviikvqB_T-2xwoJlbTOU_2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
